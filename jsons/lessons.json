@@ -5,7 +5,7 @@
 			"Index":"0",
 			"TownName": "Canony City",
 			"CharactersPath" : "",
-			"LessonVersesPath" : ""
+			"LessonVersesPath" : "https://raw.githubusercontent.com/chatterboxn18/JsonFiles/master/jsons/lesson-1.json"
 		}
 	]
 }
