@@ -1,0 +1,23 @@
+{
+	"LessonVerses": {
+		"LessonName": "Canonicity and Inspiration",
+		"Verses": 
+		[
+			{
+				"Index": "0",
+				"Reference":"2 Timothy 3:16",
+				"Text":"All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness,"
+			},
+			{
+				"Index": "1",
+				"Reference":"2 Timothy 3:17",
+				"Text":"that the man of God may be complete, equipped for every good work."
+			},
+			{
+				"Index": "2",
+				"Reference":"2 Peter 1:20-21",
+				"Text":"knowing this first of all, that no prophecy of Scripture comes from someone's own interpretation. For no prophecy was ever produced by the will of man, but men spoke from God as they were carried along by the Holy Spirit."
+			}
+		]
+	}
+}
