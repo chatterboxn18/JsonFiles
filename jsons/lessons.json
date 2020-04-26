@@ -1,11 +1,14 @@
 {
-	"FOFLessons": 
-	[
-		{
-			"Index":"0",
-			"TownName": "Canony City",
-			"CharactersPath" : "",
-			"LessonVersesPath" : ""
-		}
-	]
+	"FOFLessons": {
+		"Lessons":
+		[
+			{
+				"Index":"0",
+				"TownName": "Canony City",
+				"CharactersPath" : "",
+				"LessonVersesPath" : ""
+			}
+		]
+	}
+	
 }
