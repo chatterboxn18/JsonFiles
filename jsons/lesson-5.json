@@ -1,0 +1,21 @@
+{
+	"LessonName": "The Person of Christ",
+	"Verses": 
+	[
+		{
+			"Index": "12",
+			"Reference":"Colossians 1:15-17",
+			"Text": "He is the image of the invisible God, the firstborn of all creation. For by him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities—all things were created through him and for him. And he is before all things, and in him all things hold together."
+		},
+		{
+			"Index": "13",
+			"Reference":"Colossians 2:9",
+			"Text":"For in him the whole fullness of deity dwells bodily,"
+		},
+		{
+			"Index": "14",
+			"Reference":"Hebrews 1:3a",
+			"Text":"He is the radiance of the glory of God and the exact imprint of his nature, and he upholds the universe by the word of his power.
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"LessonName": "Biblical Survey",
+	"Verses": 
+	[
+		{
+			"Index": "3",
+			"Reference":"Genesis 3:15",
+			"Text": "I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel."
+		},
+		{
+			"Index": "4",
+			"Reference":"Luke 24:27",
+			"Text":"And beginning with Moses and all the Prophets, he interpreted to them in all the Scriptures the things concerning himself."
+		}
+	]
+}

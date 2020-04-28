@@ -1,0 +1,16 @@
+{
+	"LessonName": "Salvation & Faith",
+	"Verses": 
+	[
+		{
+			"Index": "17",
+			"Reference":"Romans 3:10-12",
+			"Text": "as it is written:\" None is righteous, no, not one; no one understands; no one seeks for God. All have turned aside; together they have become worthless; no one does good, not even one.\""
+		},
+		{
+			"Index": "18",
+			"Reference":"Ephesians 2:8-10",
+			"Text":"For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast. For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them."
+		}
+	]
+}

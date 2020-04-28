@@ -1,0 +1,31 @@
+{
+	"LessonName": "How to Read God's Word",
+	"Verses": 
+	[
+		{
+			"Index": "5",
+			"Reference":"Psalm 1:1-2",
+			"Text": "Blessed is the man who walks not in the counsel of the wicked, nor stands in the way of sinners, nor sits in the seat of scoffers; but his delight is in the law of the Lord, and on his law he meditates day and night."
+		},
+		{
+			"Index": "6",
+			"Reference":"John 15:5",
+			"Text":"I am the vine; you are the branches. Whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing."
+		},
+		{
+			"Index": "7",
+			"Reference":"2 Timothy 2:15",
+			"Text": "Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth."
+		},
+		{
+			"Index": "8",
+			"Reference":"Hebrews 4:12",
+			"Text":"For the word of God is living and active, sharper than any two-edged sword, piercing to the division of soul and of spirit, of joints and of marrow, and discerning the thoughts and intentions of the heart."
+		},
+		{
+			"Index": "9",
+			"Reference":"1 Peter 2:2-3",
+			"Text":"Like newborn infants, long for the pure spiritual milk, that by it you may grow up into salvation— if indeed you have tasted that the Lord is good."
+		}
+	]
+}

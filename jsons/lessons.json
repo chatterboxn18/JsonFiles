@@ -6,6 +6,48 @@
 			"TownName": "Canony City",
 			"CharactersPath" : "",
 			"LessonVersesPath" : "https://raw.githubusercontent.com/chatterboxn18/JsonFiles/master/jsons/lesson-1.json"
+		},
+		{
+			"Index":"1",
+			"TownName": "Bibliocity",
+			"CharactersPath" : "",
+			"LessonVersesPath" : "https://raw.githubusercontent.com/chatterboxn18/JsonFiles/master/jsons/lesson-2.json"
+		},
+		{
+			"Index":"2",
+			"TownName": "God's Wordology",
+			"CharactersPath" : "",
+			"LessonVersesPath" : "https://raw.githubusercontent.com/chatterboxn18/JsonFiles/master/jsons/lesson-3.json"
+		},
+		{
+			"Index":"3",
+			"TownName": "Papapolus",
+			"CharactersPath" : "",
+			"LessonVersesPath" : "https://raw.githubusercontent.com/chatterboxn18/JsonFiles/master/jsons/lesson-4.json"
+		},
+		{
+			"Index":"4",
+			"TownName": "Christ City",
+			"CharactersPath" : "",
+			"LessonVersesPath" : "https://raw.githubusercontent.com/chatterboxn18/JsonFiles/master/jsons/lesson-5.json"
+		},
+		{
+			"Index":"5",
+			"TownName": "The Works",
+			"CharactersPath" : "",
+			"LessonVersesPath" : "https://raw.githubusercontent.com/chatterboxn18/JsonFiles/master/jsons/lesson-6.json"
+		},
+		{
+			"Index":"6",
+			"TownName": "The Town of Faith",
+			"CharactersPath" : "",
+			"LessonVersesPath" : "https://raw.githubusercontent.com/chatterboxn18/JsonFiles/master/jsons/lesson-7.json"
+		},
+		{
+			"Index":"7",
+			"TownName": "Trinicity",
+			"CharactersPath" : "",
+			"LessonVersesPath" : "https://raw.githubusercontent.com/chatterboxn18/JsonFiles/master/jsons/lesson-8.json"
 		}
 	]
 }
