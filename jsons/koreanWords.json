@@ -1,0 +1,32 @@
+{
+	"to-be-verbs": {
+		"words": [{
+				"이상하다": "to be strange, weird"
+			},
+			{
+				"유명하다": "to be famous, well-known"
+			},
+			{
+				"중요하다": "to be important, significant"
+			},
+			{
+				"굉장하다": "to be wonderful, great"
+			},
+			{
+				"소중하다": "to be valuable, precious"
+			},
+			{
+				"저렴하다": "to be cheap (formal)"
+			},
+			{
+				"중요하다": "to be important, significant"
+			},
+			{
+				"사소하다": "to be trivial, insignificant"
+			},
+			{
+				"지루하다": "to be boring"
+			}
+		]
+	}
+}
