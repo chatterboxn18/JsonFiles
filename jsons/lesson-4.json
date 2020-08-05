@@ -1,16 +1,14 @@
 {
 	"LessonName": "God the Father",
-	"Verses": 
-	[
-		{
+	"Verses": [{
 			"Index": "10",
-			"Reference":"Exodus 34:6-7a",
-			"Text": "The Lord passed before him and proclaimed," The Lord, the Lord, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness, keeping steadfast love for thousands, forgiving iniquity and transgression and sin,"
+			"Reference": "Exodus 34:6-7a",
+			"Text": "The Lord passed before him and proclaimed, The Lord, the Lord, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness, keeping steadfast love for thousands, forgiving iniquity and transgression and sin,"
 		},
 		{
 			"Index": "11",
-			"Reference":"Isaiah 40:28",
-			"Text":"Have you not known? Have you not heard? The Lord is the everlasting God, the Creator of the ends of the earth. He does not faint or grow weary; his understanding is unsearchable."
+			"Reference": "Isaiah 40:28",
+			"Text": "Have you not known? Have you not heard? The Lord is the everlasting God, the Creator of the ends of the earth. He does not faint or grow weary; his understanding is unsearchable."
 		}
 	]
 }
